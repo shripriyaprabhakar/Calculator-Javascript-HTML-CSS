@@ -1,1 +1,6 @@
-# Calculator-Vanilla.js
+# Calculator
+
+Tech stack
+HTML
+CSS
+Javascript
